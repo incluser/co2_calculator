@@ -1,0 +1,8 @@
+.result_container {
+  padding: 30px;
+  display: flex;
+  justify-content: space-between;
+  height: 475px;
+  flex-direction: column;
+}
+

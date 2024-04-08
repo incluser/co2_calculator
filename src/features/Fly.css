@@ -1,0 +1,41 @@
+.flight_card {
+  height: 170px;
+
+  border-radius: 15px;
+  border: 1px solid rgb(211, 209, 209);
+  margin: 10px auto;
+  background-color: #fcfcfc;
+}
+
+.first_row {
+  padding: 10px 0;
+  display: flex;
+  gap: 5px;
+  margin-left: 27px;
+}
+
+.from {
+  display: flex;
+  flex-direction: column;
+}
+
+.to {
+  display: flex;
+  flex-direction: column;
+}
+.second_row {
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+}
+.second_row > div {
+  display: flex;
+  flex-direction: column;
+}
+.close__button {
+  margin-left: 200px;
+  cursor: pointer;
+  margin-top: 10px;
+  margin-right: 20px;
+}
+

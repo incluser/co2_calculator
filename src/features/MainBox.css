@@ -1,0 +1,33 @@
+.main__box__container {
+    margin: 5px;
+}
+.main__box__container__tabs {
+    border: 1px solid rgb(211, 209, 209);
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 10px;
+    background-color: white;
+    width: 100%;
+    height: 70px;   
+    display: flex;
+    justify-content: center;
+}
+.main__box__container__ {
+    display: flex;
+}
+
+.main__box__container__panels {
+    border: 1px solid rgb(211, 209, 209);
+    margin-top: 15px;
+    border-radius: 10px;
+    background-color: white;
+    height: 480px;
+    width: 750px;
+}
+.main__box__container__result {
+    border: 1px solid rgb(211, 209, 209);
+    margin: 15px 0 0 15px;
+    border-radius: 10px;
+    background-color: white;
+    width: 400px;
+}

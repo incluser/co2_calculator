@@ -1,0 +1,38 @@
+.car_container {
+    margin-left: 20px;
+    margin-top: 20px;
+    max-width: 400px;
+}
+
+.distance{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.type {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: space-between;
+}
+.fuel {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+.kpd {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: space-between;
+}
+h1 {
+    font-weight: bold;
+    margin: 20px 0;
+    font-family: "Open Sans";
+}

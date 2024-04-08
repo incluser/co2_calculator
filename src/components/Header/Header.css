@@ -1,0 +1,35 @@
+.header__container {
+    height: 70px;
+    width: 100%;
+}
+.header__container__ {
+    margin: 0 15px;
+    height: 100%;
+}
+.header__container__flex {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1100px;
+    width: 100%;
+    color: #012048;
+    align-items: center;
+    height: 70px;
+    margin: 0 auto;
+    font-size: 15px;
+    font-weight: 450;
+}
+
+.home_icon {
+    width: 90px;
+    height: 28px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.header__container__links ul {
+    list-style: none;
+    display: flex;
+}
+.header__container__links li {
+    margin-right: 50px;
+}
